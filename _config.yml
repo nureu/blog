@@ -22,7 +22,7 @@ sass:
 
 # Site Data
 url: https://nureu.github.io
-baseurl: /blog
+baseurl: /log
 title: Simple Texture
 description: "A gem-based responsive simple texture styled Jekyll theme."
 keywords: 'jekyll,theme,gem-based,blog'
